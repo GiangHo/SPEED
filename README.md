@@ -1,9 +1,9 @@
-# ${1:Project Name}
+# Project Name
 SPEED: An Inhabitant Activity Prediction Algorithm for Smart Homes
 
 
 ## Refer
-https://www.researchgate.net/publication/260651609_SPEED_An_Inhabitant_Activity_Prediction_Algorithm_for_Smart_Homes
+[SPEED_An_Inhabitant_Activity_Prediction_Algorithm_for_Smart_Homes](https://www.researchgate.net/publication/260651609_SPEED_An_Inhabitant_Activity_Prediction_Algorithm_for_Smart_Homes)
 
 ## Installation
 TODO: Describe the installation process
